@@ -1,2 +1,2 @@
-# sfg-pet-clinik
+# sfg-pet-clinic
 Spring project
